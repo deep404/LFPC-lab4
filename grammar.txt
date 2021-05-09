@@ -1,0 +1,21 @@
+a
+b
+c
+d
+e
+f
+next
+S
+A
+B
+C
+next
+S -> Bc
+S -> BcdC
+C -> Ae
+A -> f
+A -> Abf
+B -> a
+B -> Bba
+next
+abacdfbfe
